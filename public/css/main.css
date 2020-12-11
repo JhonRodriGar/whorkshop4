@@ -1,0 +1,20 @@
+.img-title {
+    width: 9%;
+}
+
+/* section {
+    display: grid;
+    grid-template: auto /repeat(3,33%); /* Número de filas automático pero 3 columnas de 30% de tamaño de pantalla 
+} */
+
+article {
+    /* border: 1px solid gray; */
+    /* margin: 1em; */
+    /* padding: 0.5em; */
+    text-align: center;
+}
+
+/* main {
+    display: flex;
+    flex-direction: row;
+} */
