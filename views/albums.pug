@@ -3,7 +3,7 @@ extends template
 block content
   div(class="row")
     div(class="col-6")
-      video(controls, poster=item.url)
+      video(controls, poster=item.url, width=500)
         source(src=item.video, type="video/mp4")
     div(class="col-6")
       h2 Album:
